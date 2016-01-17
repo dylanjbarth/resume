@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Dylan Barth",
+    "label": "Full stack web developer",
+    "picture": "",
+    "email": "dylan.j.barth@gmail.com",
+    "phone": "",
+    "website": "http://dylanbarth.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "England"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "dylan_barth",
+        "url": "https://twitter.com/dylan_barth"
+      },
+      {
+        "network": "GitHub",
+        "username": "dylanjbarth",
+        "url": "https://github.com/dylanjbarth/"
+      },
+      {
+        "network": "Medium",
+        "username": "@Dylan_Barth",
+        "url": "https://medium.com/@Dylan_Barth"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "GrowthIntel",
+      "position": "Full-stack Web Developer",
+      "website": "http://growthintel.com",
+      "startDate": "2015-03-15",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Learning Equality",
+      "position": "Co-Founder, President",
+      "website": "http://learningequality.org",
+      "startDate": "2012-01-01",
+      "endDate": "2014-11-22",
+      "summary": "Learning Equality is a non-profit organization committed to enabling global access to high-quality open educational resources.",
+      "highlights": [
+        "Core developer of the initial KA Lite platform, which provided offline learning communities access to Khan Academy content and an interactive learning experience.",
+        "Raised over $300K in grants and donations within the first year of the organization being founded.",
+        "Led development of key partnerships with organizations including UNICEF, War Child Holland, and the Hewlett Foundation."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of California, San Diego",
+      "area": "Cognitive Science, Human-Computer Interaction",
+      "studyType": "Bachelor of Science",
+      "startDate": "2009-08-01",
+      "endDate": "2013-06-01",
+      "gpa": "3.6",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {}
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
