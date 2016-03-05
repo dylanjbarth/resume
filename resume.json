@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Dylan Barth",
-    "label": "Full stack web developer",
-    "picture": "",
+    "label": "Full-stack Web Developer",
+    "picture": "dylan-face.jpg",
     "email": "dylan.j.barth@gmail.com",
     "phone": "",
     "website": "http://dylanbarth.com",
-    "summary": "",
+    "summary": "Full-stack web developer at GrowthIntel. Working in a small team on a predictive marketing tool that optimizes sales pipelines. Technologies I get to use every day include Python, Elasticsearch, JavaScript, React.js, MySQL, Git. Prior to GrowthIntel, I co-founded a small non-profit called Learning Equality where we built an open-source app that helped to provide access to an engaging learning experience for students around the world without internet access.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -38,18 +38,24 @@
       "position": "Full-stack Web Developer",
       "website": "http://growthintel.com",
       "startDate": "2015-03-15",
-      "summary": "",
-      "highlights": []
+      "summary": "As a software engineer at Growth Intel, I have had the opportunity to tackle a wide breadth of technical challenges including:",
+      "highlights": [
+        "Leading a team in delivering a from-scratch rewrite of our previous frontend codebase in React in 6 weeks.",
+        "Refactoring a monolithic Python Tornado API into 4 domain separated microservices.",
+        "Pairing with another developer to build a microservice which integrated our web app with Salesforce.com using the SFDC REST API",
+        "Giving a talk at PyData London 2015 on building complex data processing pipelines with Python Luigi",
+        "Working with a wide variety of web technologies including Elasticsearch, Apache Spark, and AWS (EC2, RDS, IAM, S3)."
+      ]
     },
     {
       "company": "Learning Equality",
-      "position": "Co-Founder, President",
+      "position": "Co-Founder, Full-stack Web Developer",
       "website": "http://learningequality.org",
       "startDate": "2012-01-01",
       "endDate": "2014-11-22",
       "summary": "Learning Equality is a non-profit organization committed to enabling global access to high-quality open educational resources.",
       "highlights": [
-        "Core developer of the initial KA Lite platform, which provided offline learning communities access to Khan Academy content and an interactive learning experience.",
+        "Core developer of the initial KA Lite platform, a pure Python web app which provided offline learning communities access to Khan Academy content and an interactive learning experience.",
         "Raised over $300K in grants and donations within the first year of the organization being founded.",
         "Led development of key partnerships with organizations including UNICEF, War Child Holland, and the Hewlett Foundation."
       ]
@@ -70,7 +76,19 @@
   "awards": [],
   "publications": [],
   "skills": [
-    {}
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Python", "JavaScript", "React", "MySQL", "Elasticsearch", "AWS"
+      ]
+    },
+    {
+      "name": "Development Practices",
+      "keywords": [
+        "Human-Computer Interaction", "User-centered design", "Agile"
+      ]
+
+    }
   ],
   "languages": [
     {
