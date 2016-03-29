@@ -2,7 +2,7 @@
   "basics": {
     "name": "Dylan Barth",
     "label": "Full-stack Web Developer",
-    "picture": "dylan-face.jpg",
+    "picture": "",
     "email": "dylan.j.barth@gmail.com",
     "phone": "",
     "website": "http://dylanbarth.com",
@@ -44,7 +44,7 @@
         "Refactoring a monolithic Python Tornado API into 4 domain separated microservices.",
         "Pairing with another developer to build a microservice which integrated our web app with Salesforce.com using the SFDC REST API.",
         "Working with a wide variety of web technologies including Elasticsearch, Apache Spark, and AWS (EC2, RDS, IAM, S3).",
-        "Speaking at bi-monthly company knowledge-sharing meetups on self-management, Python Luigi, and browser networking."
+        "Speaking at bi-monthly company knowledge-sharing meetups on self-management, Python Luigi, and browser networking.",
         "Speaking at PyData London 2015 on building complex data processing pipelines with Python Luigi."
       ]
     },
