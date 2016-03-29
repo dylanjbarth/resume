@@ -38,13 +38,14 @@
       "position": "Full-stack Web Developer",
       "website": "http://growthintel.com",
       "startDate": "2015-03-15",
-      "summary": "As a software engineer at Growth Intel, I have had the opportunity to tackle a wide breadth of technical challenges including:",
+      "summary": "As a software engineer at Growth Intel, I have had the opportunity to tackle a wide breadth of technical challenges thus far, including:",
       "highlights": [
-        "Leading a team in delivering a from-scratch rewrite of our previous frontend codebase in React in 6 weeks.",
+        "Leading a team in delivering a from-scratch rewrite of our previous frontend codebase in React.",
         "Refactoring a monolithic Python Tornado API into 4 domain separated microservices.",
-        "Pairing with another developer to build a microservice which integrated our web app with Salesforce.com using the SFDC REST API",
-        "Giving a talk at PyData London 2015 on building complex data processing pipelines with Python Luigi",
-        "Working with a wide variety of web technologies including Elasticsearch, Apache Spark, and AWS (EC2, RDS, IAM, S3)."
+        "Pairing with another developer to build a microservice which integrated our web app with Salesforce.com using the SFDC REST API.",
+        "Working with a wide variety of web technologies including Elasticsearch, Apache Spark, and AWS (EC2, RDS, IAM, S3).",
+        "Speaking at bi-monthly company knowledge-sharing meetups on self-management, Python Luigi, and browser networking."
+        "Speaking at PyData London 2015 on building complex data processing pipelines with Python Luigi."
       ]
     },
     {
