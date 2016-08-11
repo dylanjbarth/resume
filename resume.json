@@ -6,13 +6,13 @@
     "email": "dylan.j.barth@gmail.com",
     "phone": "",
     "website": "http://dylanbarth.com",
-    "summary": "Full-stack web developer at GrowthIntel. Working in a small team on a predictive marketing tool that optimizes sales pipelines. Technologies I get to use every day include Python, Elasticsearch, JavaScript, React.js, MySQL, Git. Prior to GrowthIntel, I co-founded a small non-profit called Learning Equality where we built an open-source app that helped to provide access to an engaging learning experience for students around the world without internet access.",
+    "summary": "Full-stack web development contractor. Currently full-time at GrowthIntel working in a small team on a predictive marketing tool that optimizes sales pipelines. Hard worker, fast learner, great communicator. Prior to GrowthIntel, I co-founded a small non-profit called Learning Equality where we built an open-source app that helped to provide access to an engaging learning experience for students around the world without Internet access.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "London",
-      "countryCode": "UK",
-      "region": "England"
+      "city": "Hosuton",
+      "countryCode": "USA",
+      "region": "Texas"
     },
     "profiles": [
       {
@@ -35,17 +35,28 @@
   "work": [
     {
       "company": "GrowthIntel",
+      "position": "Full-stack Web Development Contractor",
+      "website": "http://growthintel.com",
+      "startDate": "2015-06-15",
+      "summary": "After moving from London to Houston, I accepted a contract with GrowthIntel as a full-time contractor. Projects I have completed as a contractor include:",
+      "highlights": [
+        "Leading a team in delivering a robust ETL framework using Python Luigi that included automated deployment with Ansible, scheduling and triggering, and data integrity reporting using Kibana.",
+        "Upgrading our frontend codebase from React 0.13 to React 15, and ReactRouter from 0.13 to 2.6."
+      ]
+    },    {
+      "company": "GrowthIntel",
       "position": "Full-stack Web Developer",
       "website": "http://growthintel.com",
       "startDate": "2015-03-15",
-      "summary": "As a software engineer at Growth Intel, I have had the opportunity to tackle a wide breadth of technical challenges thus far, including:",
+      "endDate": "2016-05-22",
+      "summary": "As a full-stack engineer at GrowthIntel, I tackled a wide variety of technical challenges, including:",
       "highlights": [
-        "Leading a team in delivering a from-scratch rewrite of our previous frontend codebase in React.",
+        "Leading a team in delivering a from-scratch rewrite and redesign of a legacy Backbone.js frontend codebase in React.",
         "Refactoring a monolithic Python Tornado API into 4 domain separated microservices.",
         "Pairing with another developer to build a microservice which integrated our web app with Salesforce.com using the SFDC REST API.",
-        "Working with a wide variety of web technologies including Elasticsearch, Apache Spark, and AWS (EC2, RDS, IAM, S3).",
-        "Speaking at bi-monthly company knowledge-sharing meetups on self-management, Python Luigi, and browser networking.",
-        "Speaking at PyData London 2015 on building complex data processing pipelines with Python Luigi."
+        "Working with a wide variety of web technologies including Elasticsearch, Apache Spark, and AWS (EC2, RDS, IAM, S3, SNS, Lambda).",
+        "Speaking at bi-monthly company knowledge-sharing meetups on self-management, Python Luigi, creating pip packages, and browser networking.",
+        "Speaking at PyData London 2015 on building data processing pipelines with Python Luigi."
       ]
     },
     {
