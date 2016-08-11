@@ -5,4 +5,4 @@ export:
 	resume export resume.html --theme spartan
 
 publish:
-	resume publish --theme spartan
+	resume publish --theme slick
