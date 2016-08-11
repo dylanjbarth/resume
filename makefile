@@ -2,7 +2,7 @@ install:
 	npm i -g resume-cli
 
 export:
-	resume export resume.html --theme slick
+	resume export resume.html --theme spartan
 
 publish:
-	resume publish --theme slick
+	resume publish --theme spartan
